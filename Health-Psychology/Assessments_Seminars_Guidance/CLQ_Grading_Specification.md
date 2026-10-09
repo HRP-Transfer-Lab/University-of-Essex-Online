@@ -135,6 +135,33 @@ Flag for tutor review where any of the following occurs:
 
 ---
 
+## 5.4 Module-reading engagement rule
+
+The CLQ is designed to assess engagement with module learning as well as generic knowledge of health promotion.
+
+For marking purposes:
+
+- substantive use of **Barile et al. (2021)**, a relevant model-specific module source, and appropriate wider evidence should be visible in strong submissions;
+- **Ilic & Rowe (2013)** is particularly relevant where the student justifies poster communication/design;
+- **Borrell-Carrió et al. (2004)** may support contextual or biopsychosocial critique;
+- a reading counts only when its concepts, findings, methods or limitations are used in the student's reasoning.
+
+A source listed but not substantively used does not satisfy the reading-engagement expectation.
+
+**Band guidance:**
+- **60+**: normally requires meaningful engagement with relevant module/seminar scholarship, not only generic external sources;
+- **70+**: normally requires integrated use of a model-specific source, seminar-led evidence and wider literature;
+- **80–85**: requires unusually strong synthesis and critical use of module and independent scholarship.
+
+If there is **no meaningful engagement with identifiable module/seminar reading**, normally:
+- C4.1 cannot score 1;
+- C1.4 should be constrained because integration of course concepts/research is not fully demonstrated;
+- Reading and Referencing should not enter the First-class band unless the evidence clearly shows equivalent engagement with the designated module scholarship.
+
+Do not enforce a mechanical citation count.
+
+---
+
 ## 6. Required CLQ components and eligibility
 
 The submission package consists of:
