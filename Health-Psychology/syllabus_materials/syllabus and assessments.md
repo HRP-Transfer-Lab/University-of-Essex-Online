@@ -163,3 +163,55 @@ There is no grade reduction applied if your assignment does not meet the word co
 - Submit your saved document below before the end of Unit 9.
 - After the deadline, the submission page will be locked.
 - If you need to apply for Late Submission, please complete the [**late submission of coursework form**](https://www.my-course.co.uk/pluginfile.php/1651594/mod_assign/intro/Late%20Submission%20of%20Coursework%20Form.docx?time=1583825741599).
+
+
+---
+
+# Formative Assessments
+
+## Unit 1
+
+### Discussion Topic
+
+[**Formative Discussion Forum**](https://www.my-course.co.uk/mod/forum/view.php?id=1427155)
+
+Using the WHO's definition of health (which suggests that health involves physical, mental and social components), complete the grid [**In what ways are these people healthy vs unhealthy?**](https://www.my-course.co.uk/pluginfile.php/1651542/mod_forum/intro/Unit%201%20Formative%20Activity%20Case%20Study%20%28HPY%29.docx) and describe how each person is healthy or unhealthy.
+
+Having completed the grid, discuss your findings in the discussion forum below.
+
+Also think about the following issues and discuss these in the forum:
+
+- Are physical, mental and social issues easy to separate?
+- Other than physical, mental and social, what other issues play a role in an individual’s health?
+
+### BioPsychoSocial Model of Health and Illness
+
+Familiarise yourself with the BioPsychoSocial Model of Health and Illness.
+
+## Unit 2
+
+# Working With the Health Belief Model to Change Behaviour
+
+[Page](https://www.my-course.co.uk/mod/page/view.php?id=1427164)
+
+### Completion requirements
+
+The example below is designed to help you think about how communication can be designed and tailored according to the health belief model. When going through the case of Joanne below think about the conversation between the doctor and Joanne about the risk of developing diabetes in the future. Think about how the doctor could use the health belief model constructs to help him convince Joanne that she needs to do more exercise to prevent diabetes.
+
+#### Health Belief Case Study – Joanne, her Doctor and the Leaflet
+
+Joanne is 30 years old, has a high body mass index and is classed as obese. Joanne’s doctor wants her to start exercising to reduce her risk of developing diabetes. The doctor has the following leaflet about diabetes and exercise which she is planning to give to Joanne.
+
+Image description: The image has a grey background and two outline characters. A female doctor wearing a stethoscope on the right with a medical cross above her open palm and an obese character on a treadmill running. Sweat is dripping of their head. The following words are under the character in bold and capitals: "Exercise can prevent diabetes. Listen to you [sic] doctor and do some exercise today."
+
+[The leaflet used in this example.](https://www.my-course.co.uk/pluginfile.php/1651551/mod_page/content/7/HPY%20Unit%202.PNG)
+
+The table below presents Joanne’s beliefs about diabetes and exercise. Think about how the doctor’s language and the leaflet (above) can be modified to increase the likelihood of changing Joanne’s belief and behaviour (in line with the health belief model). These are reflective questions, therefore, think through them and come up with your own creative solutions.
+
+| Health Belief Construct | Some of Joanne’s Beliefs | Reflective Questions about Joanne |
+| --- | --- | --- |
+| Perceived susceptibility. | I’m still young, and only old people get diabetes. | What may Joanne’s perceived susceptibility of getting diabetes be in the next few years? Will this differ from her doctors perceptions of Joanne’s susceptibility? What could Joanne’s doctor say to increase her perceptions of susceptibility? How should the leaflet be changed to increase perceptions of susceptibility? |
+| Perceived severity. | Diabetes is not that severe. I don’t know anyone that ever died of diabetes. | What are Joanne’s beliefs about diabetes? How will Joanne’s perceptions of diabetes differ from the beliefs that Joanne’s doctor has about diabetes? What could Joanne’s doctor say to increase her perceptions of severity? How can the leaflet be changed to increase perceptions of severity. |
+| Perceived barriers. | I don’t want to go to the gym every day. Joining the gym would be too expensive. I don’t have time. | What are Joanne’s beliefs about the barriers to exercise? How will knowing about Joanne’s perceptions of the barriers help the doctor during their conversation? What could Joanne’s doctor say or do to remove some of the barriers to exercise? How can the leaflet be changed to lower the perceived barriers to exercise? |
+| Perceived benefits. | I won’t enjoy exercising. I don’t know if exercise will reduce my risk of developing diabetes. Will exercise have any other benefits? | What are Joanne’s beliefs about the benefits of exercise? How can Joanne’s beliefs about the benefits of exercise be changed? Can other benefits of exercise be identified to increase Joanne’s perceived benefits of exercise? How can the leaflet be changed to increase the perceived benefits to exercise? |
+| Cues to action (internal or external). | I’m busy, tired and I have low motivation. I will probably forget to exercise. I won’t remember these messages. | What cue to actions could exist within Joanne’s environment? What cue to action could the doctor put in place to help motivate Joanne to exercise more? What could Joanne do to increase her cues to action? How can the leaflet be a more effective cue to action? |
