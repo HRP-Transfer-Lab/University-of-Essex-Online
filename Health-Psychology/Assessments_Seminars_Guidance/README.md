@@ -18,6 +18,9 @@ These diagnostic values are **not an arithmetic grading formula**. They help inf
 
 - `CLQ_Academic_Poster_Criteria_and_Subcriteria.md` — Unit 3–4 Collaborative Learning Question: theory-led health promotion poster, 500-word executive summary and two peer responses.
 - `End_of_Module_Essay_Criteria_and_Subcriteria.md` — Unit 9 end-of-module chronic illness essay.
+- `Seminar_Led_Reading_Integration.md` — core/supplementary readings for Seminars 1–5, suggested reading-led seminar activities, and assessment connections.
+- `CLQ_Grading_Specification.md` — operational cohort grading specification for the CLQ.
+- `End_of_Module_Essay_Grading_Specification.md` — operational cohort grading specification for the final essay.
 
 ## Source hierarchy
 
