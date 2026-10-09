@@ -133,6 +133,35 @@ Flag for tutor review where any of the following occurs:
 
 ---
 
+## 5.4 Module-reading engagement rule
+
+The final essay should demonstrate engagement with the scholarship taught through Seminars 3–5, not simply provide a generic literature review.
+
+Strong work should normally make substantive use of relevant seminar-led sources, particularly:
+
+- **Charmaz (1983)** for adjustment, identity, lived experience or quality of life;
+- **Hagger & Orbell (2003)** for illness representations, coping or the Common-Sense Model;
+- **Broadbent et al. (2004)** where illness beliefs, measurement or intervention targets are relevant;
+- **Grant & Kinman (2014)** and/or **West et al. (2020)** where intervention level, implementation context, professional support or individual-versus-system responsibility is relevant.
+
+These sources are anchors, not a closed bibliography. Students must also use substantial **illness-specific wider research**.
+
+A reading counts only when its concepts, findings, methods or limitations are used in the argument.
+
+**Band guidance:**
+- **60+**: normally requires identifiable engagement with relevant seminar/module scholarship plus illness-specific evidence;
+- **70+**: normally requires synthesis of seminar-led scholarship with wider contemporary literature;
+- **80–85**: requires unusually strong critical integration, including methodological or theoretical evaluation rather than citation presence.
+
+If there is **no meaningful engagement with identifiable module/seminar reading**, normally:
+- C4.1 cannot score 1;
+- relevant Knowledge/Application subcriteria should be constrained where theory/course learning is presented only generically;
+- Reading and Referencing should not enter the First-class band unless the evidence clearly demonstrates equivalent substantive engagement with designated module scholarship.
+
+Do not enforce a mechanical citation count.
+
+---
+
 ## 6. Required essay coverage and eligibility
 
 The essay must address all four required areas:
