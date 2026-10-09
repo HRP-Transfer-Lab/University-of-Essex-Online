@@ -39,7 +39,7 @@ The four diagnostic subcriteria below sit underneath each official criterion.
 ## 1. Knowledge and Understanding — 30%
 
 ### 1.1 Accurate understanding of the chosen health-behaviour theory
-The student demonstrates accurate knowledge of the major constructs, assumptions and behavioural mechanisms of the selected Health Belief Model, Theory of Planned Behaviour or self-efficacy approach.
+The student demonstrates accurate knowledge of the major constructs, assumptions and behavioural mechanisms of the selected Health Belief Model, Theory of Planned Behaviour or self-efficacy approach. This should be grounded in a relevant **model-specific module source**, for example Janz & Becker (1984) or Champion & Skinner (2008) for HBM, Montaño & Kasprzyk (2008) and/or Barile et al. (2021) for TPB, or Bandura (1977; 1998/2004) for self-efficacy/social cognitive theory.
 
 ### 1.2 Understanding of the target health behaviour
 The student demonstrates relevant knowledge of the chosen behaviour, including important psychological, social or contextual determinants and its relationship to health.
@@ -47,8 +47,8 @@ The student demonstrates relevant knowledge of the chosen behaviour, including i
 ### 1.3 Understanding of theory-based behaviour change
 The student explains how the selected theoretical constructs are expected to influence behaviour and why they are relevant to the chosen health-promotion problem.
 
-### 1.4 Integration of course concepts and research
-The student integrates appropriate health-psychology concepts and research to provide a coherent rationale for the poster rather than presenting disconnected definitions or claims.
+### 1.4 Integration of course concepts and seminar-led research
+The student integrates appropriate health-psychology concepts with identifiable module scholarship to provide a coherent rationale for the poster rather than presenting disconnected definitions or generic claims. Strong work should show substantive use of the seminar-led reading pathway, particularly **Barile et al. (2021)** for theory applied to health-promotion behaviour and, where relevant, **Borrell-Carrió et al. (2004)** for biopsychosocial/contextual limits of individual-level models.
 
 ---
 
@@ -58,7 +58,7 @@ The student integrates appropriate health-psychology concepts and research to pr
 The student considers the strengths, limitations, assumptions or boundary conditions of the selected theoretical model rather than describing it uncritically.
 
 ### 2.2 Critical use of empirical evidence
-The student evaluates the quality, relevance or consistency of research used to justify the poster's messages and behavioural recommendations.
+The student evaluates the quality, relevance or consistency of research used to justify the poster's messages and behavioural recommendations. Seminar-led evidence should be used critically rather than cited decoratively: for example, **Barile et al. (2021)** can be evaluated for its theory-based predictors, cross-sectional design and self-reported behaviour, while **Ilic & Rowe (2013)** can be used to evaluate the limited evidence base for posters as knowledge-transfer tools.
 
 ### 2.3 Justification of poster and intervention choices
 The student explains why specific messages, prompts, framings or calls to action were chosen and links those design decisions to theory and evidence.
@@ -86,8 +86,8 @@ Across the poster, executive summary and peer responses, the style, terminology 
 
 ## 4. Reading and Referencing — 20%
 
-### 4.1 Breadth of academic reading
-The work uses an appropriate range of academic sources, including module material and meaningful wider reading beyond essential texts where appropriate.
+### 4.1 Substantive engagement with seminar-led/module reading and wider scholarship
+The work demonstrates substantive engagement with relevant module scholarship, not merely citation presence. Strong work should normally use **Barile et al. (2021)** as the Seminar 2 core applied reading, at least one **model-specific module source** relevant to the selected HBM/TPB/self-efficacy framework, and appropriate wider empirical literature on the chosen behaviour. **Ilic & Rowe (2013)** is particularly relevant where poster communication or knowledge transfer is discussed. Borrell-Carrió et al. (2004) may strengthen contextual/biopsychosocial critique.
 
 ### 4.2 Quality and relevance of research-informed sources
 The student relies primarily on suitable psychological and health-related academic literature, with good use of peer-reviewed journal research and appropriate authoritative sources.
@@ -180,3 +180,22 @@ For each subcriterion:
 - **0** = absent, seriously incorrect or not meaningfully demonstrated
 
 Use these scores diagnostically. Award the official criterion percentage holistically using the University's grade-band descriptors.
+
+
+---
+
+# Reading-engagement anchors
+
+The assessment should reward **use of readings**, not a bibliography checklist.
+
+Substantive engagement includes accurately explaining, applying, comparing or critiquing a source's concepts, findings, methods or limitations.
+
+The following do **not** count as substantive engagement:
+
+- a source appearing only in the reference list;
+- a token citation attached to a generic statement;
+- repeating an abstract or seminar slide without application;
+- citing a source that does not support the claim;
+- naming a theory without engaging with its constructs or evidence.
+
+For a **2:1 or above**, there should normally be clear engagement with relevant module/seminar scholarship. For a **First**, seminar-led/model-specific sources should be integrated with wider independent research rather than used as isolated citations.
