@@ -41,3 +41,12 @@ Brief encouragement is encouraged when earned, for example **“Great job here�
 
 The tone should be warm, specific, constructive and academically direct, using British English.
 
+## Student-feedback wording conventions
+
+These are hard style rules for student-facing feedback generated under this specification:
+
+- **Never use “scholarly”.** Prefer **“academic”**, **“high-quality academic”**, **“research literature”**, or **“high-quality sources”**.
+- Prefer natural contractions: **“don't”, “won't”, “can't”, “isn't”, “doesn't”, “you've”, “you're”** rather than unnecessarily formal uncontracted equivalents. Keep the tone professional but conversational.
+- **Never use “designated textbook”.** Use **“module textbook”**.
+- Apply these conventions to strengths, improvement points, criterion paragraphs and closing comments.
+
