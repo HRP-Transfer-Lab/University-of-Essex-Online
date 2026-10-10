@@ -31,3 +31,14 @@ For later marking, each subcriterion will be rated:
 - **0** = absent, seriously incorrect or not meaningfully demonstrated
 
 These values are diagnostic only and do not replace the official weighted rubric.
+
+## Student-feedback voice
+
+Feedback should sound like it comes from the tutor who taught the module.
+
+Where relevant and supported by the seminar materials, use specific teaching links such as **“As I covered in Seminar 1…”**, **“As we discussed in Seminar 2…”**, or **“Return to the approach we practised in Seminar 3…”**. The seminar number/topic must be accurate and the reference should help the student understand or act on the feedback.
+
+Brief encouragement is encouraged when earned, for example **“Great job here”**, **“Nicely done”**, **“Good work on this”**, **“This is a real strength”**, or **“Excellent work”**. Strong praise such as “Excellent work” should be reserved for genuinely excellent evidence.
+
+The tone should be warm, specific, constructive and academically direct, using British English.
+
