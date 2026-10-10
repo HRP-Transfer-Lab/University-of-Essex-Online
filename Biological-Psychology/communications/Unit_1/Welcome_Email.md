@@ -34,7 +34,7 @@ You don’t need to memorise everything. Focus on building a clear sense of how 
 
 ## Seminar 1
 
-Our first seminar is also in **Unit 1** and will introduce the main ideas that we’ll keep returning to across the module.
+Our first seminar is also in **Unit 1**. It is a **50-minute, assessment-focused session** designed to introduce the main ideas that we’ll keep returning to across the module and to start preparing you for the CLQ.
 
 We’ll look at:
 
@@ -92,6 +92,17 @@ All three assessed responses are required.
 We’ll build towards this gradually. Unit 1 is about giving you the conceptual tools to recognise a good brain–behaviour question and, importantly, to think carefully about what different kinds of evidence allow us to conclude.
 
 As we move into Units 2 and 3, we’ll add the nervous-system detail and the research-method knowledge you’ll need to evaluate studies confidently.
+
+### After the seminar: a useful next step
+
+Before Unit 2, try to:
+
+- review the basic structure and function of the nervous system;
+- find **one candidate empirical human brain–behaviour study** that might work for the CLQ;
+- note the method it uses;
+- identify **one strength** and **one limitation** of that method.
+
+A useful check is: *Is the paper human, empirical, clearly linked to nervous-system structure/function, and clear enough that I can explain what the method actually shows?*
 
 Please work through the Unit 1 materials before the seminar if you can, and bring along any questions. You don’t need to arrive with everything mastered — the seminar is there to help us work through the ideas together.
 
