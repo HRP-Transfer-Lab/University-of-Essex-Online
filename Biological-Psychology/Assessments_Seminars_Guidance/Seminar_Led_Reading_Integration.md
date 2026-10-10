@@ -341,7 +341,7 @@ Strong work should normally demonstrate substantive use of:
 
 1. the student's chosen **empirical primary study**;
 2. at least one relevant **module/seminar methods reading**, especially Poldrack & Wagner (2004), Henson (2005), Fellows et al. (2005), or Chatterjee (2005);
-3. appropriate additional scholarly sources supporting methodological evaluation.
+3. appropriate additional academic sources supporting methodological evaluation.
 
 The point is not citation counting. The student should use the reading to reason about what the method measures and what conclusions are justified.
 
