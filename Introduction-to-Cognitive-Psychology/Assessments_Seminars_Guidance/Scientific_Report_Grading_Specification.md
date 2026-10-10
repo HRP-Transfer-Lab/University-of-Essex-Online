@@ -304,6 +304,22 @@ For each student produce:
 - final grade if a penalty changes it;
 - a **two-sentence personalised closing observation**.
 
+### Feedback voice and seminar-linking
+
+Student-facing feedback should sound like feedback from the tutor who has taught the module, not a detached rubric summary.
+
+Where it is genuinely relevant to the student's work, make specific links back to taught seminars, for example:
+
+- “As we covered in Seminar 1, …”
+- “This connects well with the point we discussed in Seminar 2 about …”
+- “For the next assignment, return to the approach we practised in Seminar 3 …”
+
+Use the actual seminar number and topic supported by the module's seminar materials and `Seminar_Led_Reading_Integration.md`. Do not force a seminar reference into every criterion paragraph, but normally include at least one useful seminar connection in the overall feedback when an appropriate connection exists.
+
+Use brief, natural encouragement where warranted, such as “Great job here”, “Nicely done”, “Good work on this”, “This is a real strength”, “You handled this well”, or “Excellent work”. Strong praise such as “Excellent work” should be reserved for genuinely excellent evidence. Praise should be specific rather than generic.
+
+The overall tone should be warm, encouraging, specific and academically direct. Areas for improvement should tell the student what to do next where possible.
+
 Do not show:
 
 - diagnostic codes;
