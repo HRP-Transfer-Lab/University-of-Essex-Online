@@ -52,3 +52,14 @@ These diagnostic values are **not an arithmetic grading formula**. They support 
 5. Repository-level `GRADING_FEEDBACK_ENGINE_SPEC.md`.
 
 Where there is any conflict, the official rubric and assessment brief take precedence.
+
+## Student-feedback voice
+
+Feedback should sound like it comes from the tutor who taught the module.
+
+Where relevant and supported by the seminar materials, use specific teaching links such as **“As I covered in Seminar 1…”**, **“As we discussed in Seminar 2…”**, or **“Return to the approach we practised in Seminar 3…”**. The seminar number/topic must be accurate and the reference should help the student understand or act on the feedback.
+
+Brief encouragement is encouraged when earned, for example **“Great job here”**, **“Nicely done”**, **“Good work on this”**, **“This is a real strength”**, or **“Excellent work”**. Strong praise such as “Excellent work” should be reserved for genuinely excellent evidence.
+
+The tone should be warm, specific, constructive and academically direct, using British English.
+
