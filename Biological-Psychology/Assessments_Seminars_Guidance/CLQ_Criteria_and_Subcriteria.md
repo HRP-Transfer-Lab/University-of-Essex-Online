@@ -79,7 +79,7 @@ The selected study is genuinely empirical, human, relevant to nervous-system str
 ## 4.2 Substantive engagement with seminar/module methods scholarship
 The student uses relevant module/seminar readings to reason about methodology and inference. Strong work should normally engage substantively with at least one appropriate methods source such as Poldrack & Wagner (2004), Henson (2005), Fellows et al. (2005) or Chatterjee (2005). A token citation does not count.
 
-## 4.3 Wider scholarly evidence and evidence-to-claim alignment
+## 4.3 Wider academic evidence and evidence-to-claim alignment
 Additional peer-reviewed sources are relevant and actually support the methodological or substantive claims for which they are cited.
 
 ## 4.4 Accurate and consistent referencing
