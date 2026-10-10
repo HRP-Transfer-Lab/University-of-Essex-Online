@@ -384,6 +384,44 @@ For each student, provide:
 - overall academic grade and final grade if a penalty changes it;
 - two-sentence personalised closing observation.
 
+
+### Feedback voice and seminar-linking
+
+Student-facing feedback should sound like feedback from the tutor who has taught the module, not a detached rubric summary.
+
+Where it is genuinely relevant to the student's work, make **specific links back to the taught seminars**, for example:
+
+- “As we covered in Seminar 1, …”
+- “This connects well with the point we discussed in Seminar 2 about …”
+- “For the next assignment, return to the approach we practised in Seminar 3 …”
+
+Rules:
+
+- use the **actual seminar number and topic** supported by the module's seminar materials / `Seminar_Led_Reading_Integration.md`;
+- make the seminar reference analytically useful — it should remind the student of a concept, method, reading or activity that helps explain the feedback;
+- do not force a seminar reference into every criterion paragraph;
+- normally include **at least one useful seminar connection in the overall feedback when an appropriate connection exists**;
+- never claim something was taught in a seminar if the source materials do not support that claim.
+
+Use brief, natural encouragement where warranted. Appropriate phrases include:
+
+- “Great job here.”
+- “Excellent work.”
+- “Nicely done.”
+- “This is a real strength.”
+- “Good work on this.”
+- “You handled this well.”
+- “This is developing well.”
+
+Praise must be **evidence-calibrated**:
+
+- reserve “Excellent work” and similarly strong praise for genuinely excellent / First-class evidence;
+- use warmer but more measured phrases such as “Nicely done” or “Good work on this” for solid achievement;
+- avoid generic praise that is not tied to something the student actually did;
+- do not make every paragraph begin or end with praise.
+
+The overall tone should be **warm, encouraging, specific and academically direct**. Areas for improvement should be framed constructively and, where possible, tell the student what to do next rather than merely naming a weakness.
+
 Do not show the student:
 
 - 0/0.5/1 diagnostic codes;
