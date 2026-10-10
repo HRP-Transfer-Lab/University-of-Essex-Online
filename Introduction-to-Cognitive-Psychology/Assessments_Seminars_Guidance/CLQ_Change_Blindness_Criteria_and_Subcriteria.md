@@ -86,8 +86,8 @@ Key concepts are explained accurately, claims are appropriately qualified, writi
 ## C4.1 Substantive engagement with core module evidence
 The student uses relevant module sources to support reasoning about change blindness. Particularly relevant anchors include Rensink, O'Regan and Clark (1997), Posner (2012), Milner and Goodale, and relevant Unit 3 attention material.
 
-## C4.2 Appropriate breadth and quality of scholarly evidence
-The student draws on suitable scholarly sources beyond a single textbook or webpage. Higher-quality work uses journal articles or authoritative academic sources appropriately and shows some wider reading where relevant.
+## C4.2 Appropriate breadth and quality of academic evidence
+The student draws on suitable academic sources beyond a single textbook or webpage. Higher-quality work uses journal articles or authoritative academic sources appropriately and shows some wider reading where relevant.
 
 ## C4.3 Evidence-to-claim alignment
 Citations genuinely support the claims for which they are used, and findings are represented accurately rather than cited tokenistically or overstated.
