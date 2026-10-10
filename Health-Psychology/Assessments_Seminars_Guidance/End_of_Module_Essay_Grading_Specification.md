@@ -422,6 +422,16 @@ Praise must be **evidence-calibrated**:
 
 The overall tone should be **warm, encouraging, specific and academically direct**. Areas for improvement should be framed constructively and, where possible, tell the student what to do next rather than merely naming a weakness.
 
+### Required wording conventions in student feedback
+
+These are hard style rules for all student-facing feedback:
+
+- **Never use “scholarly”.** Use **“academic”**, **“high-quality academic”**, **“research literature”**, or **“high-quality sources”** as appropriate.
+- Use natural contractions in feedback: **“don't”, “won't”, “can't”, “isn't”, “doesn't”, “you've”, “you're”** rather than unnecessarily formal **“do not”, “will not”, “cannot”, “is not”, “does not”, “you have”, “you are”**. Keep the tone professional, but conversational.
+- **Never use “designated textbook”.** Refer to it as the **“module textbook”**.
+- These wording rules apply to headings, criterion paragraphs, strengths, improvement points and the closing observation.
+
+
 Do not show the student:
 
 - 0/0.5/1 diagnostic codes;
