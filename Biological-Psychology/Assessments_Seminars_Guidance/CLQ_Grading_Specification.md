@@ -61,7 +61,7 @@ Each criterion has exactly four diagnostic subcriteria. Within a criterion, the 
 
 - **C4.1** Quality and appropriateness of the primary empirical study
 - **C4.2** Substantive engagement with seminar/module methods scholarship
-- **C4.3** Wider scholarly evidence and evidence-to-claim alignment
+- **C4.3** Wider academic evidence and evidence-to-claim alignment
 - **C4.4** Accurate and consistent referencing
 
 ---
@@ -135,7 +135,7 @@ Strong work should normally combine:
 
 1. the student's selected **primary empirical human study**;
 2. at least one relevant **module/seminar methods source**, especially Poldrack & Wagner (2004), Henson (2005), Fellows et al. (2005), or Chatterjee (2005);
-3. appropriate wider scholarly evidence where needed.
+3. appropriate wider academic evidence where needed.
 
 A source counts only when its concepts, findings, methods or inferential limits are used in the student's reasoning.
 
@@ -440,6 +440,16 @@ Praise must be **evidence-calibrated**:
 - do not make every paragraph begin or end with praise.
 
 The overall tone should be **warm, encouraging, specific and academically direct**. Areas for improvement should be framed constructively and, where possible, tell the student what to do next rather than merely naming a weakness.
+
+### Required wording conventions in student feedback
+
+These are hard style rules for all student-facing feedback:
+
+- **Never use “scholarly”.** Use **“academic”**, **“high-quality academic”**, **“research literature”**, or **“high-quality sources”** as appropriate.
+- Use natural contractions in feedback: **“don't”, “won't”, “can't”, “isn't”, “doesn't”, “you've”, “you're”** rather than unnecessarily formal **“do not”, “will not”, “cannot”, “is not”, “does not”, “you have”, “you are”**. Keep the tone professional, but conversational.
+- **Never use “designated textbook”.** Refer to it as the **“module textbook”**.
+- These wording rules apply to headings, criterion paragraphs, strengths, improvement points and the closing observation.
+
 
 Do not show students:
 
