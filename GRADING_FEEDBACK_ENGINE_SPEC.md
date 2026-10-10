@@ -522,3 +522,13 @@ Source implementations reviewed at repository commit `63b2a9d69e02d6cf389945c862
 | [PNS poster instructions](PNS/grading_specs.md) | Level-specific quality judgement, genre-sensitive evidence, feasibility and visual inspection | Poster dimensions, font thresholds, six weights and local feasibility rules remain assessment-specific |
 
 These sources are precedents, not a claim that every older run already implemented this specification. The present deliverable is the reusable plan; the next operational step for a new module is its source intake and agreed bespoke rubric.
+
+## Student-feedback wording conventions
+
+These are hard style rules for student-facing feedback generated under this specification:
+
+- **Never use “scholarly”.** Prefer **“academic”**, **“high-quality academic”**, **“research literature”**, or **“high-quality sources”**.
+- Prefer natural contractions: **“don't”, “won't”, “can't”, “isn't”, “doesn't”, “you've”, “you're”** rather than unnecessarily formal uncontracted equivalents. Keep the tone professional but conversational.
+- **Never use “designated textbook”.** Use **“module textbook”**.
+- Apply these conventions to strengths, improvement points, criterion paragraphs and closing comments.
+
