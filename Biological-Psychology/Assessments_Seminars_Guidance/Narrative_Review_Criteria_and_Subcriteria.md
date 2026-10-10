@@ -6,7 +6,7 @@
 
 - **Word count:** 2,000 words excluding references
 - **Weighting:** 70%
-- **Minimum scholarly references:** 10
+- **Minimum academic references:** 10
 - Students choose one topic:
   - Biology of Sensation, Perception and Attention
   - Biology of Consciousness
@@ -83,7 +83,7 @@ The student develops justified conclusions about the current state of knowledge,
 The review meaningfully uses relevant module readings and seminar-linked sources rather than relying entirely on generic external material. For review methodology, Snyder (2019) and/or Sukhera (2022) provide key anchors. Topic-specific module readings should also be used where relevant.
 
 ## 4.2 Breadth, quality and independence of the literature base
-The review includes at least 10 scholarly references and demonstrates appropriate use of high-quality peer-reviewed primary studies and reviews, including independently sourced literature beyond the module list.
+The review includes at least 10 academic references and demonstrates appropriate use of high-quality peer-reviewed primary studies and reviews, including independently sourced literature beyond the module list.
 
 ## 4.3 Transparent and appropriate literature-search process
 The methodology section clearly reports databases, search terms and inclusion/exclusion or scope decisions, with sufficient transparency to understand how the literature base was constructed. Limitations and reflexivity are acknowledged where appropriate.
