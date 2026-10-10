@@ -87,7 +87,7 @@ The student compares the findings with prior literature, considers plausible alt
 The student demonstrates the ability to locate relevant academic literature, drawing on the Unit 7 formative systematic-search work where completed, and selects sources appropriate to the experiment and hypothesis.
 
 ## C4.2 Breadth, quality and relevance of research literature
-The report uses an appropriate range of scholarly sources, including research-informed literature and wider reading beyond only taught material where relevant.
+The report uses an appropriate range of academic sources, including research-informed literature and wider reading beyond only taught material where relevant.
 
 ## C4.3 Meaningful use of sources in design, hypothesis and discussion
 Sources are used to inform the experiment's rationale, hypothesis and interpretation rather than appearing as disconnected summaries or decorative citations.
