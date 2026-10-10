@@ -6,7 +6,7 @@ Version 1.0 · 10 October 2026
 
 **Word count:** 2,000 words excluding references.  
 **Assessment weighting:** 70%.  
-**Minimum scholarly references:** 10.
+**Minimum academic references:** 10.
 
 **Status:** Assessment-specific configuration of the repository-level `GRADING_FEEDBACK_ENGINE_SPEC.md`. The official University of Essex Online Level 5 rubric and assessment brief remain authoritative.
 
@@ -133,7 +133,7 @@ Flag for tutor review where:
 - multiple zeros occur within one criterion;
 - an essential review component is absent;
 - the literature-search methodology cannot be established;
-- fewer than 10 scholarly references are present;
+- fewer than 10 academic references are present;
 - evidence is inaccessible or unresolved;
 - any proposed overall is 80–85.
 
@@ -177,7 +177,7 @@ If there is no meaningful engagement with identifiable module scholarship, norma
 - relevant Knowledge/Application subcriteria should be constrained where concepts are generic;
 - Reading and Referencing should not normally enter the First-class band.
 
-Do not enforce a mechanical citation quota beyond the official minimum of 10 scholarly references.
+Do not enforce a mechanical citation quota beyond the official minimum of 10 academic references.
 
 ---
 
@@ -284,11 +284,11 @@ Operational rule:
 
 ## 10. Reference minimum
 
-The brief requires **at least 10 scholarly references**.
+The brief requires **at least 10 academic references**.
 
 Therefore:
 
-- fewer than 10 scholarly references is a formal non-compliance flag;
+- fewer than 10 academic references is a formal non-compliance flag;
 - do not invent an automatic numerical deduction unless University policy specifies one;
 - reflect consequences within C4.2 and any other genuinely affected criteria;
 - hold unusually severe cases for tutor review.
@@ -362,7 +362,7 @@ Pass threshold: 40.
 if processed_overall in [38, 39]
 and all four review components are materially represented
 and methodology is present
-and at least 10 scholarly references are accounted for
+and at least 10 academic references are accounted for
 and no essential criterion is wholly absent
 and no unresolved evidence remains:
     academic_overall = 40
@@ -419,7 +419,7 @@ Exceptional work would normally demonstrate:
    - all criterion marks below 40;
    - fail candidates;
    - 80+ candidates;
-   - fewer than 10 scholarly references;
+   - fewer than 10 academic references;
    - absent methodology;
    - absent review sections;
    - weak/inappropriate sources;
@@ -528,6 +528,16 @@ Praise must be **evidence-calibrated**:
 
 The overall tone should be **warm, encouraging, specific and academically direct**. Areas for improvement should be framed constructively and, where possible, tell the student what to do next rather than merely naming a weakness.
 
+### Required wording conventions in student feedback
+
+These are hard style rules for all student-facing feedback:
+
+- **Never use “scholarly”.** Use **“academic”**, **“high-quality academic”**, **“research literature”**, or **“high-quality sources”** as appropriate.
+- Use natural contractions in feedback: **“don't”, “won't”, “can't”, “isn't”, “doesn't”, “you've”, “you're”** rather than unnecessarily formal **“do not”, “will not”, “cannot”, “is not”, “does not”, “you have”, “you are”**. Keep the tone professional, but conversational.
+- **Never use “designated textbook”.** Refer to it as the **“module textbook”**.
+- These wording rules apply to headings, criterion paragraphs, strengths, improvement points and the closing observation.
+
+
 Do not expose:
 
 - diagnostic codes;
@@ -553,7 +563,7 @@ Maintain:
 - academic overall;
 - borderline flag;
 - missing-component / unresolved flags;
-- scholarly-reference count;
+- academic-reference count;
 - methodology-presence flag;
 - extreme-fail flag;
 - exceptional-grade rationale;
@@ -676,7 +686,7 @@ No grade is released until:
 - complete review is accounted for and readable;
 - all 20 subcriteria are scored or unresolved;
 - methodology/search section has been checked;
-- scholarly-reference minimum has been checked;
+- academic-reference minimum has been checked;
 - every sub-40 subcriterion has been reviewed;
 - every fail candidate has been checked;
 - every extreme fail has tutor approval;
