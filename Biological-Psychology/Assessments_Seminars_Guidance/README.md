@@ -9,6 +9,8 @@ The official University of Essex Online assessment briefs and grading rubrics re
 - `Seminar_Led_Reading_Integration.md` — core and supplementary readings for Seminars 1–5, using the actual delivery sequence in Units 1, 3, 5, 7 and 9.
 - `CLQ_Criteria_and_Subcriteria.md` — four diagnostic subcriteria beneath each official CLQ criterion.
 - `Narrative_Review_Criteria_and_Subcriteria.md` — four diagnostic subcriteria beneath each official final-assessment criterion.
+- `CLQ_Grading_Specification.md` — operational cohort-marking specification for the CLQ.
+- `Narrative_Review_Grading_Specification.md` — operational cohort-marking specification for the final narrative review.
 
 ## Delivery map
 
