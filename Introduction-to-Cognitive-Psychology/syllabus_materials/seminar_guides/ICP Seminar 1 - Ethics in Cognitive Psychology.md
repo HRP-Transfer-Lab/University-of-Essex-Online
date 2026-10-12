@@ -24,10 +24,12 @@
 - Week 6: Emotion and cognition
   - UoEO Psychology Lab: Emotional Stroop Experiment
 - Week 7: Language comprehension & production
+  - Optional formative assessment: Draft Literature Review (due at the end of Unit 7 under the assessment brief)
 - Week 8: Hypothesis testing, problem solving and decision-making
-  - Assessment: Research Report: Literature Review deadline
 - Week 9: Applications in translational cognitive psychology
   - Assessment: Research Report deadline
+
+> **Source-alignment note (12 October 2026):** The original Seminar 1 overview placed a literature-review deadline in Week 8. The assessment brief instead specifies an **optional, non-assessed Unit 7 formative Draft Literature Review**, due at the end of Unit 7. This working guide follows the assessment brief. If the current LMS submission page gives a different deadline, confirm the current official date before advising students; do not treat this historical seminar overview as a submission authority.
 
 ## Aims
 
