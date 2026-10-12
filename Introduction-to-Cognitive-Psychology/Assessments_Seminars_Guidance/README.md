@@ -53,6 +53,12 @@ These diagnostic values are **not an arithmetic grading formula**. They support 
 
 Where there is any conflict, the official rubric and assessment brief take precedence.
 
+## Source-alignment notes (12 October 2026)
+
+- **Formative literature-review timing:** The syllabus/assessment brief specifies the optional, non-assessed Draft Literature Review at the **end of Unit 7**. An older Seminar 1 overview placed a literature-review deadline in Week 8; the repository's working seminar guide has been aligned with the assessment brief. Confirm against the current LMS deadline before issuing a dated student reminder.
+- **CLQ learning-outcome wording:** The assessment brief reproduces two learning outcomes about improving thinking and acquisition/retention/retrieval, which are not obviously aligned with the Units 3–4 Change Blindness question. Preserve those official words verbatim in the source transcription; **do not substitute inferred learning outcomes or mark students against the mismatch**. Mark using the actual change-blindness question and the official CLQ rubric (25% each for Knowledge and Understanding, Evaluation and Analytical Skills, Communication, and Reading & Referencing). Any correction to the formally published learning outcomes requires University confirmation.
+- **Provenance:** These notes resolve inconsistencies between repository transcriptions/guides. They do not independently verify the current authenticated University LMS, which remains the authority for live deadlines and official changes.
+
 ## Student-feedback voice
 
 Feedback should sound like it comes from the tutor who taught the module.
