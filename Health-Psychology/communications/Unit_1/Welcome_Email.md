@@ -2,7 +2,7 @@
 
 **Subject:** Welcome to Health Psychology — Unit 1 and getting started
 
-Dear everyone,
+Hello!
 
 Welcome to **Health Psychology**. I’m Mark, and I’ll be your tutor for the module.
 
@@ -26,21 +26,21 @@ For the first seminar, please focus particularly on the biopsychosocial model.
 
 Our core seminar reading is:
 
-**Borrell-Carrió, F., Suchman, A. L., & Epstein, R. M. (2004). _The biopsychosocial model 25 years later: Principles, practice, and scientific inquiry._ The Annals of Family Medicine, 2(6), 576–582.**
+**Borrell-Carrió, F., Suchman, A. L., & Epstein, R. M. (2004). *The biopsychosocial model 25 years later: Principles, practice, and scientific inquiry.* The Annals of Family Medicine, 2(6), 576–582.**
 
-Full text: https://www.annfammed.org/content/2/6/576
+Full text: [https://www.annfammed.org/content/2/6/576](https://www.annfammed.org/content/2/6/576)
 
 You do not need to memorise the paper. As you read it, just come prepared to think about one question:
 
-> **What does the biopsychosocial model add that a purely biomedical explanation does not?**
+> ***What does the biopsychosocial model add that a purely biomedical explanation does not?***
 
 We’ll use the paper in the seminar to think about how biological, psychological and social influences interact, rather than treating them as three separate lists.
 
 If you want to go a little further, the supplementary reading is:
 
-**Lehman, B. J., David, D. M., & Gruber, J. A. (2017). _Rethinking the biopsychosocial model of health: Understanding health as a dynamic system._ Social and Personality Psychology Compass, 11(8), e12328.**
+**Lehman, B. J., David, D. M., & Gruber, J. A. (2017). *Rethinking the biopsychosocial model of health: Understanding health as a dynamic system.* Social and Personality Psychology Compass, 11(8), e12328.**
 
-DOI: https://doi.org/10.1111/spc3.12328
+DOI: [https://doi.org/10.1111/spc3.12328](https://doi.org/10.1111/spc3.12328)
 
 ## Unit 1 formative activity
 
@@ -84,4 +84,4 @@ I look forward to working with you over the module.
 
 Best wishes,
 
-**Mark**
+Mark
