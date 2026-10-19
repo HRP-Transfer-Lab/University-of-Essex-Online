@@ -2,7 +2,7 @@
 
 **Subject:** Welcome to Biological Psychology — Unit 1 and our first seminar
 
-Dear everyone,
+Hello!
 
 Welcome to **Biological Psychology**. I’m Mark, and I’ll be your tutor for the module.
 
@@ -77,7 +77,7 @@ DOI: https://doi.org/10.1080/02724980443000502
 
 Your first summative assessment is the **Collaborative Learning Question (CLQ)**, which starts in **Unit 2** and finishes at the end of **Unit 3**.
 
-For the Initial Response, you’ll identify one **empirical human study** investigating a relationship between the structure or function of the nervous system and human thought, emotion and/or behaviour. You’ll briefly explain the study’s aim, procedure and findings, and then make clear what brain–behaviour relationship the study demonstrates.
+For the Initial Response, you’ll identify one **empirical (data-collecting) human study** investigating a relationship between the structure or function of the nervous system and human thought, emotion and/or behaviour. You’ll briefly explain the study’s aim, procedure and findings, and then make clear what brain–behaviour relationship the study demonstrates.
 
 You’ll then write **two peer responses** in Unit 3, evaluating the strengths and limitations of the methods used in your peers’ chosen studies.
 
