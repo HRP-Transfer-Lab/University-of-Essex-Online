@@ -2,7 +2,7 @@
 
 **Subject:** Welcome to Introduction to Cognitive Psychology — Unit 1 and our first seminar
 
-Dear everyone,
+Hello!
 
 Welcome to **Introduction to Cognitive Psychology**. I’m Mark, and I’ll be your tutor for the module.
 
@@ -33,7 +33,7 @@ By the end of the unit, the aim is for you to be able to see how these three app
 
 As you work through the Unit 1 material, a useful question to keep in mind is:
 
-> **What kind of evidence would each approach use to explain the same cognitive process?**
+> ***What kind of evidence would each approach use to explain the same cognitive process?***
 
 For example, cognitive psychology might focus on behaviour and performance, cognitive neuroscience might examine patterns of brain activity, and cognitive neuropsychology might ask what can be learned when a particular cognitive ability is disrupted following brain injury.
 
@@ -76,11 +76,11 @@ As you read it, don’t worry about memorising the document. Instead, think abou
 
 A useful question to prepare is:
 
-> **Is it ever ethically justifiable to use deception in psychological research?**
+> ***Is it ever ethically justifiable to use deception in psychological research?***
 
 We’ll also discuss:
 
-> **Can generative AI tools be used in ways that are genuinely helpful and ethically responsible, or do the risks outweigh the benefits?**
+> ***Can generative AI tools be used in ways that are genuinely helpful and ethically responsible, or do the risks outweigh the benefits?***
 
 If you want to go a little further, the Unit 1 reading list also includes:
 
@@ -114,4 +114,4 @@ I’m looking forward to working with you over the module.
 
 Best wishes,
 
-**Mark**
+Mark
