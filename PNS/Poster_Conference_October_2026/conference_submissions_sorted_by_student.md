@@ -474,7 +474,7 @@ Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to r
 
 # Maria Carbon De Diego
 
-**Submission audit:** 3/3 graded Comments; 0/3 graded Responses. **INCOMPLETE in the supplied export.**
+**Submission audit:** 3/3 graded Comments; Responses 1–3 are missing and each is scored 0. **INCOMPLETE in the supplied export.**
 
 ## Peer Comments — graded student work
 
@@ -562,12 +562,36 @@ Tara Abid
 
 ## Responses — graded student work
 
+### Response 1 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Maria.
+
+---
+
+### Response 2 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Maria.
+
+---
+
+### Response 3 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Maria.
+
+---
+
 *No graded responses by this student were identifiable in the supplied export.*
 
 
 # Aleksandra Malecka-Urban
 
-**Submission audit:** 3/3 graded Comments; 3/3 response-labelled posts; 2/3 peer Responses identified (Response 3 is to tutor feedback). **Peer-response status still needs checking.**
+**Submission audit:** 3/3 graded Comments; 3/3 Responses counted for grading (Response 3 is tutor feedback accepted by tutor).
 
 ## Peer Comments — graded student work
 
@@ -641,6 +665,26 @@ Laborde, S., Mosley, E., & Thayer, J. F. (2017). Heart rate variability and card
 ---
 
 ## Responses — graded student work
+
+### Response 3 — tutor feedback accepted for grading
+
+**Posted:** Friday, 16 October 2026, 5:34 PM
+
+Hi Mark,
+
+Thank you for giving me feedback. I’m glad you liked the design! 😊
+
+You raised a really interesting point about flexibility. I don't think being able to enhance and suppress emotional expression means someone knows when to use either strategy. About the FREE Scale, it measures perceived ability, but it doesn’t directly assess whether someone can recognise what a specific situation requires. Bonanno & Burton (2013) described regulatory flexibility as involving sensitivity to context, having different regulatory strategies available, and responding to feedback. So, I believe my findings could tell us more about regulatory capacity than flexibility itself. If I would like to investigate flexibility in a more direct way, I would need a task involving different emotional or social situations.
+
+About your second point: S-HDT and ADHD traits are something that I can admit I hadn’t fully considered. The task involves attention and perceptual judgements, so differences in performance might not reflect introceptive accuracy alone. In my opinion, this makes the exploratory relationship between S-HDT and ADHD traits performance especially interesting, even though it would also make the findings much harder to interpret.
+
+I would be more cautious about the conclusions I could draw from the results, especially given the S-HDT's limited validation.
+
+**References**
+
+Bonanno, G. A., & Burton, C. L. (2013). Regulatory flexibility: An individual differences perspective on coping and emotion regulation. *Perspectives on Psychological Science, 8*(6), 591–612. https://doi.org/10.1177/1745691613504116
+
+---
 
 ### Response 1 — responding to Marit Boehle
 
@@ -2448,6 +2492,20 @@ Danielmeier, C., & Ullsperger, M. (2011). Post-error adjustments. Frontier Psych
 
 ## Responses — graded student work
 
+### Response 3 — tutor feedback accepted for grading
+
+**Posted:** Friday, 16 October 2026, 6:45 PM
+
+Hello Dr. Ashton-Smith,
+
+Thank you for your feedback, particularly your point that distinguishing memory processes could strengthen the psychological interpretation of the findings. Your concern about delayed recall is valid, as RAVLT performance depends on initial encoding and learning, as well as subsequent retention and retrieval. Consequently, poorer delayed recall cant be attributed exclusively to accelerated forgetting. Examining delayed recall alongside performance on the final learning trial would provide a more nuanced assessment of retention and help distinguish difficulties in initial acquisition from subsequent memory maintenance. Where methodologically appropriate, incorporating a retention measure would therefore strengthen the interpretation of the relationship between cortisol exposure and memory processes, although it would not independently establish hippocampal dysfunction.
+
+Your suggestion concerning perceived stress also raises an important theoretical distinction. HCC and the TICS-9-EN assess related but not equivalent constructs: physiological cortisol exposure and subjective stress perceptions, respectively. Including perceived stress within a multiple regression model could establish whether HCC explains additional variance in memory performance beyond perceived stress. However, this approach would address a different question from examining the overall association between HCC and memory, and its interpretation would depend on the theoretical relationship between these variables. The study's hypotheses should guide the analytical strategy, supported by appropriate statistical justification.
+
+Overall, your feedback offered valuable opportunities to refine my analysis and strengthen the study's contribution to understanding the relationship between physiological stress processes and verbal memory.
+
+---
+
 ### Response 1 — responding to Liv Tissot
 
 **Posted:** Friday, 16 October 2026, 6:14 PM  
@@ -2638,6 +2696,14 @@ Anfisa Rekina
 
 ## Responses — graded student work
 
+### Response 3 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** Only two response submissions were provided for Moyosore.
+
+---
+
 ### Response 1 — responding to Shelby Taylor
 
 **Posted:** Tuesday, 13 October 2026, 10:08 AM  
@@ -2812,6 +2878,30 @@ Aleksandra Małecka Urban
 
 ## Responses — graded student work
 
+### Response 1 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Samara.
+
+---
+
+### Response 2 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Samara.
+
+---
+
+### Response 3 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No response submission was provided for Samara.
+
+---
+
 *No graded responses by this student were identifiable in the supplied export.*
 
 
@@ -2821,9 +2911,57 @@ Aleksandra Małecka Urban
 
 ## Peer Comments — graded student work
 
+### Comment 1 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
+
+### Comment 2 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
+
+### Comment 3 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
+
 *No graded peer comments by this student were identifiable in the supplied export.*
 
 ## Responses — graded student work
+
+### Response 1 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
+
+### Response 2 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
+
+### Response 3 — missing required submission
+
+**Grading status:** 0 across Application of Knowledge and Understanding, Research Methodology, Ethical Considerations, and Animation in Discussion Forums.
+
+**Reason:** No graded conference submission was provided for Diana.
+
+---
 
 *No graded responses by this student were identifiable in the supplied export.*
 
