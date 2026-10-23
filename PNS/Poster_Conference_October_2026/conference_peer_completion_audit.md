@@ -26,3 +26,5 @@ Poster introductions, duplicate poster posts, informal posts and tutor-authored 
 - Samara Lowther's source-labelled “New comment” has been retained as **Comment 2** because it is a substantive peer critique positioned between her explicit Comments 1 and 3.
 - Maria Carbon De Diego's generic “New comment” posts explicitly identify themselves as Comment 1 and Comment 3 in the first line; these have been normalised accordingly.
 - Counts describe only what is identifiable in the supplied export; missing material may exist elsewhere.
+
+- Aleksandra's Comment 1 to Viveyan Binyam (15 October 2026, 7:42 PM) was supplied separately and added on 23 October 2026.
