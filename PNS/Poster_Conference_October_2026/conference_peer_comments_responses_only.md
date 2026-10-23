@@ -318,7 +318,7 @@ Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to r
 
 # Maria Carbon De Diego
 
-**Peer Comments found:** 2/3  
+**Peer Comments found:** 3/3  
 **Peer Responses found:** 0/3
 
 ## Peer Comments
@@ -388,6 +388,29 @@ Tara Abid
 **Peer Responses found:** 2/3
 
 ## Peer Comments
+
+### Comment 1 — to Viveyan Binyam
+
+**Posted:** Thursday, 15 October 2026, 7:42 PM
+
+Hi Viveyan,
+
+I think your work and your poster are really interesting. Especially the idea that resting HRV is more strongly associated with inhibitory control as cognitive demands increase. I also noticed how well you have acknowledged the limitations of interpreting HRV as a causal factor rather than a physiological marker.
+
+However, there is one aspect I would explore further, I mean the choice of inhibitory control task. The poster identifies the Sustained Attention to Response Task (SART), while the description mentions a Go/No-Go task. Although the SART is a form of Go/No-Go task, it requires sustained attention, which can complicate interpretation of inhibitory control performance (Robertson et al., 1997).
+
+Another thing I wondered about is how you would establish that participants experience the intended difference between low and high cognitive load. Lavie et al. (2004) demonstrated that different types of cognitive load may affect attentional control in different ways. So, including a manipulation check, like digit-recall accuracy, might help establish whether participants maintained the additional working-memory demands.
+
+Overall, I enjoyed the research you presented; it has a clear rationale and an interesting psychobiological perspective. The visual presentation is also nice and clear. My last sentence is: Clarifying these methodological aspects could strengthen the interpretation of the predicted HRV x cognitive load interaction. Thank you for presenting great work.
+
+**References**
+
+Lavie, N., Hirst, A., de Fockert, J. W., & Viding, E. (2004). Load theory of selective attention and cognitive control. *Journal of Experimental Psychology: General, 133*(3), 339–354. https://doi.org/10.1037/0096-3445.133.3.339
+
+Robertson, I. H., Manly, T., Andrade, J., Baddeley, B. T., & Yiend, J. (1997). ‘Oops!’: Performance correlates of everyday attentional failures in traumatic brain injured and normal subjects. *Neuropsychologia, 35*(6), 747–758.
+
+---
+
 
 ### Comment 2 — to Anfisa Rekina
 
