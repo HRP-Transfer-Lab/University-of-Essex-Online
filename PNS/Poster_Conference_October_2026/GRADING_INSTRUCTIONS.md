@@ -1,6 +1,6 @@
 # Psychobiology & Neuroscience Poster Conference — Grading Instructions
 
-Version 1.0 · 23 October 2026  
+Version 1.1 · 23 October 2026  
 Level 7 MSc | University of Essex Online | Units 11–12 Poster Conference
 
 **Status:** authoritative grading specification for the Poster Conference component following the Research Poster assessment.
@@ -75,7 +75,11 @@ Released criterion percentages should be whole numbers and should reproduce the 
 
 The student submits three approximately 200-word critical comments on three different peer posters.
 
-Mark the **three comments collectively** against the four criteria below. Do not assign three separate overall grades and average them. The evidence for each criterion should be drawn across all three comments, while noting important variation between individual posts.
+For this cohort, treat **Comment 1, Comment 2 and Comment 3 as three explicit scoring slots**. Assess each submitted Comment against the four official criteria using the relevant internal subcriteria below. A missing required Comment receives **0 for all four criterion scores for that slot**.
+
+After scoring all three slots, calculate each Comments criterion grade as the arithmetic mean of that criterion across Comment 1, Comment 2 and Comment 3. The Comments Overall is then the 25/25/25/25 weighted mean of the four resulting criterion grades.
+
+This slot-based approach replaces the earlier collective-only treatment because it makes missing required contributions explicit and auditable.
 
 ## A1. Application of Knowledge and Understanding — 25%
 
@@ -220,9 +224,11 @@ Repeated templates, generic praise or near-identical criticisms across all poste
 
 # 4. Component B — Responses to comments on own poster
 
-The student submits three approximately 200-word responses to three comments received on their own poster.
+The student submits three approximately 200-word responses to comments received on their own poster.
 
-Mark the **three responses collectively** against the four criteria below.
+For this cohort, treat **Response 1, Response 2 and Response 3 as three explicit scoring slots**. Assess each submitted Response against the four official criteria using the relevant internal subcriteria below. A missing required Response receives **0 for all four criterion scores for that slot**.
+
+After scoring all three slots, calculate each Responses criterion grade as the arithmetic mean of that criterion across Response 1, Response 2 and Response 3. The Responses Overall is then the 25/25/25/25 weighted mean of the four resulting criterion grades.
 
 The central question is:
 
@@ -387,41 +393,69 @@ A code of 1 permits a wide range of academic quality.
 
 ---
 
-# 6. Criterion calculation
+# 6. Post-level and criterion calculation
 
-For each criterion, aggregate the four quality marks with equal internal weighting:
+Each of the three required Comment slots and each of the three required Response slots is scored separately.
+
+For a submitted post, derive its four criterion scores from the relevant internal subcriteria. Within a criterion, the internal quality marks are equally weighted unless a subcriterion is genuinely not applicable; in that case document the reason and average the applicable evidence rather than inventing a zero.
+
+For a missing required post:
 
 ```text
-Criterion Quality =
-(q1 + q2 + q3 + q4) / 4
+Knowledge = 0
+Methodology = 0
+Ethics = 0
+Animation = 0
 ```
 
-Then calculate each component using the official 25/25/25/25 weights.
+For each component, average the same criterion across the three required posts:
 
-More detailed internal subcriteria do not alter the official criterion weights.
+```text
+Comments Knowledge =
+(Comment1_K + Comment2_K + Comment3_K) / 3
 
-Keep the competence matrix and quality matrix separate for audit purposes.
+Responses Knowledge =
+(Response1_K + Response2_K + Response3_K) / 3
+```
+
+and likewise for Methodology, Ethics and Animation.
+
+Then calculate:
+
+```text
+Component Overall =
+0.25 × Knowledge
++ 0.25 × Methodology
++ 0.25 × Ethics
++ 0.25 × Animation
+```
+
+Because all four criteria and all three post slots are equally weighted, this is mathematically equivalent to averaging the three post-level overall grades, but the criterion-first calculation is retained for transparent feedback.
+
+Keep the competence matrix, post-level quality matrix, component criterion grades and component overalls separate for audit purposes.
 
 ---
 
-# 7. Completion rule
+# 7. Missing-post and completion rule
 
-The module instructions state that the student must submit:
+The module instructions state that students are expected to submit all **3 critical Comments** and all **3 Responses**.
 
-- all **3 critical Comments**; and
-- all **3 Responses**
+For this cohort, the agreed operational treatment is:
 
-to pass the assessment.
+1. Maintain six explicit graded slots: Comment 1–3 and Response 1–3.
+2. A missing required slot is scored **0 across all four official criteria**.
+3. Do not impute performance from the student's other posts into the missing slot.
+4. Do not replace a missing graded post with an informal/unmarked contribution unless the tutor explicitly designates it as a graded substitute.
+5. Record the missing contribution transparently in the audit and student feedback where relevant.
+6. The slot-zero treatment is the numerical consequence used in the grade calculation for this cohort. Do not apply an additional automatic 49 cap on top of the same missing post unless the tutor later instructs that the University's mandatory-completion rule must also be enforced administratively at release.
 
-Therefore:
-
-1. Calculate the academic Comments and Responses grades from the work submitted.
-2. Record the number of valid graded Comments and Responses.
-3. If the student has fewer than 3 Comments or fewer than 3 Responses, flag the assessment as **Incomplete — mandatory contribution requirement not met**.
-4. Unless institutional policy supplied for the cohort states otherwise, cap the final Poster Conference grade at **49** when the 3+3 requirement is not met.
-5. Do not distort individual criterion marks to manufacture this cap. Show the academic result and the completion cap separately.
-
-Additional voluntary comments or responses may provide supporting evidence of engagement, but they do not replace missing required posts unless the tutor explicitly designates them as eligible graded posts.
+Tutor decisions for the present cohort:
+- Maria Carbon De Diego has no Responses: Response 1, 2 and 3 are all scored 0.
+- Moyosore Olasupo has two Responses: Response 3 is scored 0.
+- Samara Lowther has no Responses: Response 1, 2 and 3 are all scored 0.
+- Diana Mamonova has no graded Comments or Responses: all six post slots are scored 0.
+- Aleksandra Malecka-Urban's supplied Response 3 to tutor feedback is accepted as her third Response for grading in this cohort.
+- Shelby Taylor's supplied Response 3 to tutor feedback is accepted as her third Response for grading in this cohort.
 
 ---
 
