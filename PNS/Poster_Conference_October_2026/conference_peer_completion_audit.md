@@ -30,3 +30,14 @@ Poster introductions, duplicate poster posts, informal posts and tutor-authored 
 - Aleksandra's Comment 1 to Viveyan Binyam (15 October 2026, 7:42 PM) was supplied separately and added on 23 October 2026.
 
 - Recovered from course activity list and supplied in full on 23 October 2026: Maria Comment 2; Marit Comment 1; Anfisa Comment 2; Viveyan Responses 1–3.
+
+
+## Tutor scoring decisions added 23 October 2026
+
+- Missing required post slots are scored 0 across all four official criteria.
+- Maria: Responses 1–3 = 0.
+- Moyosore: Response 3 = 0.
+- Samara: Responses 1–3 = 0.
+- Diana: Comments 1–3 and Responses 1–3 = 0.
+- Aleksandra Response 3 to tutor feedback is accepted as her third graded Response.
+- Shelby Response 3 to tutor feedback is accepted as her third graded Response.
