@@ -323,6 +323,31 @@ Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to r
 
 ## Peer Comments
 
+### Comment 2 — to Viveyan Binyam
+
+**Posted:** Monday, 19 October 2026, 4:45 PM
+
+### **Comment 2**
+
+**Hi Viveyan!**
+
+**I believe your research proposal is interesting, particularly your research on the relationship between inhibitory control and resting heart rate variability (HRV) and how this relationship is affected by cognitive load. Thank you for making that distinction in your presentation between HRV being a probable marker of the ability of the regulatory system and HRV being an improved marker of cognitive performance. This is relevant because of the correlational nature of your work.**
+
+**The points outlined below are methodological strengths when using ECG to measure resting HRV, especially as it adheres to HRV recommendations for psychophysiological research (Laborde et al., 2017). I also believe that working with cognitive loads in participants is understood to be a good strategy because then one can make comparisons between the different cognitive loads.**
+
+**The inhibitory task would be another component I would recommend that you clarify. Your introduction talks about a Go/No-Go task and your poster discusses the Sustained Attention to Response Task (SART). Clearly defining the task, and stating how inhibitory control was defined in the experiment, increases methodological transparency, but is not the same task.**
+
+**Also, individual stress and/or resting levels of physical activity may contribute to variations in HRV.**
+
+**Your proposal overall outlines a well thought out investigation of cognitive control in the context of heightened demands and shows a good level of both theoretical and practical relevance.**
+
+**Reference**
+
+**Laborde, S., Mosley, E., & Thayer, J. F. (2017). Heart rate variability and cardiac vagal tone in psychophysiological research: Recommendations for experiment planning, data analysis, and data reporting. Frontiers in Psychology, 8, Article 213. https://doi.org/10.3389/fpsyg.2017.00213**
+
+---
+
+
 ### Comment 1 — to Aneeta Sadra
 
 **Posted:** Monday, 19 October 2026, 4:42 PM  
@@ -683,7 +708,7 @@ Vickers, A. J., & Altman, D. G. (2001). Analysing controlled trials with baselin
 # Viveyan Binyam
 
 **Peer Comments found:** 3/3  
-**Peer Responses found:** 0/3
+**Peer Responses found:** 3/3
 
 ## Peer Comments
 
@@ -770,6 +795,71 @@ Marino, M., Li, Y., Rueschman, M. N., Winkelman, J. W., Ellenbogen, J. M., Solet
 ---
 
 ## Responses to peers
+
+### Response 3 — to Aleksandra Malecka-Urban
+
+**Posted:** Monday, 19 October 2026, 7:05 PM
+
+Hi Aleksandra, thank you for your comment and for pointing out the terminology issue. The task is specifically the SART, which is a form of Go/No-Go task with infrequent No-Go targets. I used the broader term Go/No-Go in my description, but I agree that using SART consistently would make the method clearer.
+
+Your point about sustained attention matters because the SART was designed to capture attentional failures as well as failures of response inhibition (Robertson et al., 1997). I therefore would not interpret poorer d′ as evidence of impaired inhibition alone. Reporting criterion c and reaction time alongside d′ should help show whether any HRV-related difference reflects changes in sensitivity, response strategy or speed, although these measures cannot completely remove the overlap between cognitive processes.
+
+Digit-recall accuracy is included as a manipulation check for the cognitive-load manipulation. This matters because the predicted interaction only makes sense if participants actually maintain the different memory loads. Lavie et al. (2004) showed that working-memory load can alter attentional control, which provides a rationale for comparing 1-digit and 6-digit conditions. Your comment has highlighted that I need to make this manipulation check and the theoretical link to the HRV × load interaction more explicit.
+
+References
+
+Lavie, N., Hirst, A., de Fockert, J. W., & Viding, E. (2004). Load theory of selective attention and cognitive control. Journal of Experimental Psychology: General, 133(3), 339-354. https://doi.org/10.1037/0096-3445.133.3.339
+
+Robertson, I. H., Manly, T., Andrade, J., Baddeley, B., & Yiend, J. (1997). “Oops!”: Performance correlates of everyday attentional failures in traumatic brain injured and normal subjects. Neuropsychologia, 35(6), 747-758. https://doi.org/10.1016/S0028-3932(97)00015-8
+
+---
+
+
+### Response 2 — to Marit Boehle
+
+**Posted:** Monday, 19 October 2026, 7:04 PM
+
+Hi Marit, thank you for your detailed comment. I agree that the dual-task design makes interpretation more complex because poorer SART performance under high load could reflect changes in attention, working memory or response strategy as well as inhibition. My primary outcome is d′, with criterion c also included, and I would report reaction time and error patterns descriptively to help identify possible speed-accuracy trade-offs (Seli et al., 2013). Digit-recall accuracy is my manipulation check, which matters because a load effect would be hard to interpret if participants were not maintaining the digits.
+
+Your point about the HRV protocol is fair. The design uses a 5-minute seated rest followed by a 5-minute ECG recording, consistent with Laborde et al. (2017), but factors such as caffeine, sleep, recent exercise and assessment time should be standardised or recorded. A single resting measurement is also a cautious estimate of stable regulatory capacity.
+
+Age is already prespecified as a covariate and load order is counterbalanced. I would also make practice trials, block duration and breaks clearer in the protocol. The HRV × load interaction is theoretically motivated by neurovisceral integration (Thayer & Lane, 2009), but N = 80 remains a feasibility benchmark rather than a power-based estimate for detecting a small interaction (Blake & Gangestad, 2020).
+
+References
+
+Blake, K. R., & Gangestad, S. (2020). On attenuated interactions, measurement error, and statistical power: Guidelines for social and personality psychologists. Personality and Social Psychology Bulletin, 46(12), 1702-1711. https://doi.org/10.1177/0146167220913363
+
+Laborde, S., Mosley, E., & Thayer, J. F. (2017). Heart rate variability and cardiac vagal tone in psychophysiological research: Recommendations for experiment planning, data analysis, and data reporting. Frontiers in Psychology, 8, Article 213. https://doi.org/10.3389/fpsyg.2017.00213
+
+Seli, P., Jonker, T. R., Solman, G. J. F., Cheyne, J. A., & Smilek, D. (2013). A methodological note on evaluating performance in a sustained-attention-to-response task. Behavior Research Methods, 45(2), 355-363. https://doi.org/10.3758/s13428-012-0266-1
+
+Thayer, J. F., & Lane, R. D. (2009). Claude Bernard and the heart-brain connection: Further elaboration of a model of neurovisceral integration. Neuroscience & Biobehavioral Reviews, 33(2), 81-88. https://doi.org/10.1016/j.neubiorev.2008.08.004
+
+---
+
+
+### Response 1 — to Anfisa Rekina
+
+**Posted:** Monday, 19 October 2026, 7:03 PM
+
+Hi Anfisa, thank you for your comment. I agree that the SART should not be interpreted as a pure measure of inhibition because performance also reflects sustained attention, working memory and response strategy (Criaud & Boulinguez, 2013). In my design, both conditions include a concurrent digit-memory task, with only the memory load changing from 1 digit to 6 digits. This improves the within-person comparison, although it does not completely separate inhibition from other cognitive demands.
+
+My primary outcome is d′, with criterion c included to distinguish sensitivity from response bias. I also agree that reaction time is useful because SART commission errors can vary with response speed (Seli et al., 2013). I would therefore report RT descriptively and examine whether changes in accuracy are accompanied by changes in speed, rather than interpreting d′ alone as evidence of stronger inhibitory control.
+
+Age is already included as a covariate in the mixed-effects model because resting HRV varies with age (Voss et al., 2015). An age × HRV × load interaction is interesting, but with a feasibility target of 80 participants I would treat this as exploratory, as higher-order interactions generally require substantially greater power (Blake & Gangestad, 2020). This would avoid over-interpreting an underpowered secondary analysis.
+
+References
+
+Blake, K. R., & Gangestad, S. (2020). On attenuated interactions, measurement error, and statistical power: Guidelines for social and personality psychologists. Personality and Social Psychology Bulletin, 46(12), 1702-1711. https://doi.org/10.1177/0146167220913363
+
+Criaud, M., & Boulinguez, P. (2013). Have we been asking the right questions when assessing response inhibition in go/no-go tasks with fMRI? A meta-analysis and critical review. Neuroscience & Biobehavioral Reviews, 37(1), 11-23. https://doi.org/10.1016/j.neubiorev.2012.11.003
+
+Seli, P., Jonker, T. R., Solman, G. J. F., Cheyne, J. A., & Smilek, D. (2013). A methodological note on evaluating performance in a sustained-attention-to-response task. Behavior Research Methods, 45(2), 355-363. https://doi.org/10.3758/s13428-012-0266-1
+
+Voss, A., Schroeder, R., Heitmann, A., Peters, A., & Perz, S. (2015). Short-term heart rate variability: Influence of gender and age in healthy subjects. PLOS ONE, 10(3), Article e0118308. https://doi.org/10.1371/journal.pone.0118308
+
+---
+
 
 *None identifiable in the supplied export.*
 
@@ -1234,10 +1324,33 @@ Marino, M., Li, Y., Rueschman, M. N., Winkelman, J. W., Ellenbogen, J. M., Solet
 
 # Marit Boehle
 
-**Peer Comments found:** 2/3  
+**Peer Comments found:** 3/3  
 **Peer Responses found:** 3/3
 
 ## Peer Comments
+
+### Comment 1 — to Viveyan Binyam
+
+**Posted:** Saturday, 10 October 2026, 10:59 AM
+
+Dear Viveyan,
+
+Your research question is interesting, and the distinction between association and causation is appropriate. My main concerns relate to measurement and interpretation rather than the proposed interaction alone.
+
+First, combining the SART with a memory task creates a dual-task manipulation, but any performance change cannot automatically be attributed specifically to inhibition. Seli et al. (2012) showed that SART commission errors are sensitive to response speed. Reporting reaction times and different error types alongside d′ would therefore help interpret the results. Recall accuracy should also be measured to establish whether participants engage with the memory task.
+
+Second, the resting-HRV protocol needs greater detail. Laborde et al. (2017) recommend documenting or standardising factors including sleep, caffeine, physical activity and assessment time. They also recommend repeated baseline measurements when interpreting HRV as a trait. A single recording should therefore be interpreted cautiously as an indicator of stable regulatory capacity.
+
+Given the broad age range, I would prespecify how age will be handled analytically; HRV guidelines identify it as a relevant participant variable. Practice trials, block duration, breaks and order effects also require clarification. Finally, the predicted interaction needs an explicit rationale, and sample-size planning should address its precision. These additions would improve interpretability and reproducibility.
+
+References
+
+Laborde, S., Mosley, E. & Thayer, J. F. (2017). Heart rate variability and cardiac vagal tone in psychophysiological research – recommendations for experiment planning, data analysis, and data reporting. *Frontiers of Psychology,* 8. https://doi.org/10.3389/fpsyg.2017.00213
+
+Seli, P., Jonker, T. R., Solman, G. J. F., Cheyne, J. A., & Smilek, D. (2012). A methodological note on evaluating performance in a sustained-attention-to-response task. *Behavior Research Methods*, 45, 355-363. https://doi.org/10.3758/s13428-012-0266-1
+
+---
+
 
 ### Comment 2 — to Aleksandra Malecka-Urban
 
@@ -1359,10 +1472,33 @@ Wei, M., Roodenrys, S., Miller, L., & Barkus, E. (2020). Complex scenes from the
 
 # Anfisa Rekina
 
-**Peer Comments found:** 2/3  
+**Peer Comments found:** 3/3  
 **Peer Responses found:** 3/3
 
 ## Peer Comments
+
+### Comment 2 — to Viveyan Binyam
+
+**Posted:** Friday, 9 October 2026, 10:54 AM
+
+Hi Viveyan, thank you for sharing your proposal! I appreciated how it links physiological regulation with inhibitory control, and your clear distinction between HRV as a marker rather than a causal mechanism.
+
+Building on your note that the SART also taps sustained attention, your proposal made me think about the complexity of measuring inhibitory control. Research suggests that SART and other Go/No-Go tasks may reflect several overlapping processes, such as attention and working memory (Criaud & Boulinguez, 2013), as well as differences in response strategies and speed-accuracy trade-offs (Seli et al., 2013). Given that your design adds working memory demands, how might you account for the contribution of other cognitive processes when interpreting the relationship between HRV and inhibitory control? Could examining reaction times alongside d′ help inform this interpretation?
+
+I was also interested in the age range of 18-65 years. Short-term HRV measures have been shown to vary with age (Voss et al., 2015), while research comparing younger and older adults suggests that the relationship between working memory demands and response inhibition may depend on age and task conditions (Grandjean & Collette, 2011). What do you think about including age as a covariate, or testing an age × HRV × load interaction?
+
+**References**
+
+Criaud, M., & Boulinguez, P. (2013). Have we been asking the right questions when assessing response inhibition in go/no-go tasks with fMRI? A meta-analysis and critical review. *Neuroscience & Biobehavioral Reviews, 37*(1), 11–23. https://doi.org/10.1016/j.neubiorev.2012.11.003
+
+Grandjean, J., & Collette, F. (2011). Influence of response prepotency strength, general working memory resources, and specific working memory load on the ability to inhibit predominant responses: A comparison of young and elderly participants. *Brain and Cognition, 77*(2), 237–247. https://doi.org/10.1016/j.bandc.2011.08.004
+
+Seli, P., Jonker, T. R., Solman, G. J. F., Cheyne, J. A., & Smilek, D. (2013). A methodological note on evaluating performance in a sustained-attention-to-response task. *Behavior Research Methods, 45*(2), 355–363. https://doi.org/10.3758/s13428-012-0266-1
+
+Voss, A., Schroeder, R., Heitmann, A., Peters, A., & Perz, S. (2015). Short-term heart rate variability—Influence of gender and age in healthy subjects. *PLOS ONE, 10*(3), Article e0118308. https://doi.org/10.1371/journal.pone.0118308
+
+---
+
 
 ### Comment 1 — to Aneeta Sadra
 
