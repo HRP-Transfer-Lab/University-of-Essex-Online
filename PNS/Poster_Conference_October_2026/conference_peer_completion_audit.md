@@ -28,3 +28,5 @@ Poster introductions, duplicate poster posts, informal posts and tutor-authored 
 - Counts describe only what is identifiable in the supplied export; missing material may exist elsewhere.
 
 - Aleksandra's Comment 1 to Viveyan Binyam (15 October 2026, 7:42 PM) was supplied separately and added on 23 October 2026.
+
+- Recovered from course activity list and supplied in full on 23 October 2026: Maria Comment 2; Marit Comment 1; Anfisa Comment 2; Viveyan Responses 1–3.
