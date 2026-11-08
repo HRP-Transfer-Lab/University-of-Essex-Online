@@ -6,11 +6,18 @@ The official University of Essex Online assessment briefs and grading rubrics re
 
 ## Files
 
+- [CLQ_Marking_Summary_Guide.md](CLQ_Marking_Summary_Guide.md) — consolidated CLQ marking and feedback guide, including the 8 November 2026 tutor clarifications on sampled informal participation, verified absence, unclear/missing Peer Response 2, and page-specific connections to the supplied Seminar 1 and Seminar 2 slides.
 - `Seminar_Led_Reading_Integration.md` — core and supplementary readings for Seminars 1–5, using the actual delivery sequence in Units 1, 3, 5, 7 and 9.
 - `CLQ_Criteria_and_Subcriteria.md` — four diagnostic subcriteria beneath each official CLQ criterion.
 - `Narrative_Review_Criteria_and_Subcriteria.md` — four diagnostic subcriteria beneath each official final-assessment criterion.
 - `CLQ_Grading_Specification.md` — operational cohort-marking specification for the CLQ.
 - `Narrative_Review_Grading_Specification.md` — operational cohort-marking specification for the final narrative review.
+
+## October 2026 CLQ marking clarification
+
+Read the [CLQ summary guide](CLQ_Marking_Summary_Guide.md) alongside the detailed specification before marking this cohort. Supplied informal posts are usually **samples**, not a complete participation record. The tutor-requested **five-percentage-point adjustment** concerns confirmed absence of informal participation and requires verification, policy compatibility and a double-counting check before application. A genuinely missing assessed peer response is a more serious completion issue under the brief's **all-three-responses-required-to-pass** rule; an unclear heading or incomplete extract is not evidence of non-submission.
+
+The guide also distinguishes the attached slides' verified content from planned seminar-reading links, records page-specific feedback examples, and clarifies the operational meaning of competence code 1. It does not replace the official rubric, introduce automatic grade release, or overwrite the detailed marking documents.
 
 ## Delivery map
 
