@@ -1,0 +1,50 @@
+name: CLQ marking source export
+on:
+  push:
+    branches: [clq-marking-review-2026-11-08]
+    paths: [.github/workflows/clq-marking-source-export.yml]
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Extract assessment text without modifying submissions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile, xml.etree.ElementTree as ET, json, hashlib, shutil
+          root = Path('Biological-Psychology/Oct-2026-CLQ')
+          out = Path('clq-source-export')
+          (out/'originals').mkdir(parents=True, exist_ok=True)
+          (out/'texts').mkdir(exist_ok=True)
+          manifest=[]
+          ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+          for p in sorted(root.glob('*.docx')):
+              raw=p.read_bytes()
+              with zipfile.ZipFile(p) as z:
+                  x=ET.fromstring(z.read('word/document.xml'))
+                  paras=[]
+                  for idx,para in enumerate(x.findall('.//w:body//w:p',ns),1):
+                      text=''.join(n.text or '' for n in para.findall('.//w:t',ns))
+                      if text.strip(): paras.append(f'[P{idx:03d}] {text}')
+                  media=[n for n in z.namelist() if n.startswith('word/media/')]
+              (out/'texts'/f'{p.stem}.txt').write_text('\n\n'.join(paras),encoding='utf-8')
+              shutil.copy2(p,out/'originals'/p.name)
+              manifest.append({'name':p.stem,'path':str(p),'sha256':hashlib.sha256(raw).hexdigest(),'git_blob_sha':hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest(),'bytes':len(raw),'media':media,'paragraph_count':len(paras)})
+          for name in ['Assessments_Seminars_Guidance','syllabus_materials']:
+              shutil.copytree(Path('Biological-Psychology')/name,out/name,dirs_exist_ok=True)
+          shutil.copy2('GRADING_FEEDBACK_ENGINE_SPEC.md',out/'GRADING_FEEDBACK_ENGINE_SPEC.md')
+          (out/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
+          print(f'Exported {len(manifest)} submissions; originals unchanged.')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: clq-marking-sources-2026-11-08
+          path: clq-source-export/
+          retention-days: 1
+          if-no-files-found: error
